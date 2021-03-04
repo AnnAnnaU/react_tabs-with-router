@@ -1,0 +1,1 @@
+{"version":3,"sources":["MainNavigation.scss"],"names":[],"mappings":"AAAA,KACE,kBAA8B,CAC9B,kBAAmB","file":"main.deb75749.chunk.css","sourcesContent":["#nav {\n  background: rgb(214, 228, 241);\n  margin-bottom: 25px;\n}"]}
